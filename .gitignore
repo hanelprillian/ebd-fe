@@ -1,0 +1,10 @@
+_unused/
+.vscode/
+.idea/
+.vercel/
+node_modules/
+
+.DS_Store
+.vercel
+node_modules
+.next/
